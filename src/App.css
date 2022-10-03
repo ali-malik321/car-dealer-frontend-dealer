@@ -27,7 +27,7 @@ html,body{
 
 body{
   font-family: 'Poppins', sans-serif !important;
-  background: var(--body-bg);
+  background: var(--body-bg) !important;
 }
 
 .App {
